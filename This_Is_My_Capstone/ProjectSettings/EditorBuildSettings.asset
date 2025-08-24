@@ -35,7 +35,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/MelonV4_folder/MelonV4 1.unity
     guid: eecac85185bf0a349b89d261c6fa866d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MelonV5_test.unity
     guid: c5c8fe0da676f432b91f70c3f41eb22b
   - enabled: 1
@@ -43,4 +43,6 @@ EditorBuildSettings:
     guid: 2a57666a1b01f72408acf35845c596b9
   m_configObjects:
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 2b977acad209545ee846795928c1af62, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 43c122d7af8d8410197e78c8cc53b33a, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 38c306125d7014125b1e3343709fa58b, type: 2}
+  m_UseUCBPForAssetBundles: 0
